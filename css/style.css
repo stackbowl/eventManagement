@@ -280,7 +280,11 @@ a.w3_agile_vimeo:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:750px;
+    min-height:750px;
+
+    /* opacity: 0.2; */
+
+    
 }
 .banner1{
 	background:url(../images/banner.jpg) no-repeat 0px 0px;
@@ -289,7 +293,9 @@ a.w3_agile_vimeo:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:300px;
+    min-height:300px;
+    
+    /* opacity: 0.2; */
 }
 .w3ls_banner_info {
     margin: 16em 0 0;
@@ -2068,4 +2074,15 @@ button.close {
 .map iframe {
     margin-top: 2em;
 }
+}
+
+
+
+
+
+/* ----------------------css custom---------------------- */
+
+
+.flex-active{
+    border-radius: 5px; 
 }
