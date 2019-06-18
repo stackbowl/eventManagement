@@ -2086,3 +2086,7 @@ button.close {
 .flex-active{
     border-radius: 5px; 
 }
+
+.more-button{
+    padding-left: 85%;
+}
