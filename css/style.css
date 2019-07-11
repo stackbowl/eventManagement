@@ -16,7 +16,7 @@ p,ul li,ol li{
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Great Vibes', cursive;
-	margin:0;
+	margin:7px;
 }
 ul,label{
 	margin:0;
@@ -2089,4 +2089,22 @@ button.close {
 
 .more-button{
     padding-left: 85%;
+}
+
+
+.prove{
+    float:left;
+  }
+  .providee:hover{
+    color: #cf2d50;
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.providee{
+  /* font-family: 'Montserrat',sans-serif; */
+  font-weight: 400;
+}
+.providee{
+font-size: 28px;
 }
