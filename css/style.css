@@ -2108,3 +2108,7 @@ button.close {
 .providee{
 font-size: 28px;
 }
+#ourgala{
+    border: solid black 4px;
+    border-radius: 15px;
+}
